@@ -1,4 +1,11 @@
 ### Hi there 👋
+## 안녕하세요 심봉교입니다.
+- [portfolio](https://elastic-vanilla-3d4.notion.site/My-name-is-simbonggyo-452d7108974f4a8b8ff0c111c360d205?pvs=4)
+- [blog](https://velog.io/@bong9468)
+
+
+
+
 
 <!--
 **bong94688/bong94688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

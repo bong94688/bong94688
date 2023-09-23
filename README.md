@@ -1,4 +1,6 @@
-### Hi there 👋
+## 안녕하세요 심봉교입니다. 👋
+
+### ⚒ 기술 스택
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbong94688&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)	
   <div align=center>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -34,7 +36,6 @@
   <br>
   </div>
 
-## 안녕하세요 심봉교입니다.
 - [portfolio](https://elastic-vanilla-3d4.notion.site/My-name-is-simbonggyo-452d7108974f4a8b8ff0c111c360d205?pvs=4)
 - [blog](https://velog.io/@bong9468)
  
@@ -46,7 +47,6 @@
 
 2023.08 ~ 2023.09 프리온보딩 백엔드 인턴쉽
 
-### ⚒ 기술 스택
 
 
 

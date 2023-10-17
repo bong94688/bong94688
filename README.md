@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white">
 
   <br>
+  
   </div>
 
 💻 [portfolio](https://elastic-vanilla-3d4.notion.site/My-name-is-simbonggyo-452d7108974f4a8b8ff0c111c360d205?pvs=4)

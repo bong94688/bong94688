@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/redis-FF0000?style=for-the-badge&logo=redis&logoColor=white"> 
 
   <br>
-    <h4>🎆프레임워크🎆</h4>
+    <h4>🎆프레임 워크🎆</h4>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 

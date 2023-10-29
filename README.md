@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/mui-0769AD?style=for-the-badge&logo=mui&logoColor=white">
 
   <br>
-    <h4>🍳데이터 베이스🍳</h4>
+    <h4>🍳데이터베이스🍳</h4>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/redis-FF0000?style=for-the-badge&logo=redis&logoColor=white"> 

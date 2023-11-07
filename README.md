@@ -64,7 +64,7 @@
 💻 [portfolio](https://elastic-vanilla-3d4.notion.site/My-name-is-simbonggyo-452d7108974f4a8b8ff0c111c360d205?pvs=4)
 📗 [blog](https://velog.io/@bong9468)
 
-🥇 활동
+🥇 대회/교육 활동
 
 [2018.02 ~ 2023.02 인하공전 컴퓨터 시스템과 졸업](https://github.com/bong94688)<br>
 [2023.04 ~ 2023.09 네이버클라우드교육과정 수료](https://github.com/bong94688)<br>

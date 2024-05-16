@@ -61,7 +61,7 @@
   
   </div>
 
-💻 [portfolio](https://elastic-vanilla-3d4.notion.site/My-name-is-simbonggyo-452d7108974f4a8b8ff0c111c360d205?pvs=4)
+💻 [portfolio]([https://elastic-vanilla-3d4.notion.site/My-name-is-simbonggyo-452d7108974f4a8b8ff0c111c360d205?pvs=4](https://elastic-vanilla-3d4.notion.site/0ece78e96e624e699dc8ab69d15ce2db?pvs=4))
 📗 [blog](https://velog.io/@bong9468)
 
 🥇 대회 / 교육 활동

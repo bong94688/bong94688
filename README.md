@@ -34,7 +34,7 @@
   <br>
   <h4>🎫클라우드 기술🎫</h4>
   <img src="https://img.shields.io/badge/NCP-GR?style=for-the-badge&logo=Naver&logoColor=white" >
-    <img src="https://img.shields.io/badge/AWS-GR?style=for-the-badge&logo=AWS&logoColor=white" >
+    <img src="https://img.shields.io/badge/AWS?style=for-the-badge&logo=AWS&logoColor=white" >
   <br>
   <h4>👔협 업👔</h4>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">

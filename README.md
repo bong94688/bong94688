@@ -32,12 +32,9 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <br>
-  <h4>🎫서버 기술🎫</h4>
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <h4>🎫클라우드 기술🎫</h4>
   <img src="https://img.shields.io/badge/NCP-GR?style=for-the-badge&logo=Naver&logoColor=white" >
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/NCP-GR?style=for-the-badge&logo=AWS&logoColor=white" >
   <br>
   <h4>👔협 업👔</h4>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">

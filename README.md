@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/NCP-GR?style=for-the-badge&logo=Naver&logoColor=white" >
   <img src="https://img.shields.io/badge/AWS-BLACK?style=for-the-badge&logo=Aws&logoColor=white" >
   <br>
-  <h4>👔협 업👔</h4>
+  <h4>👔협업👔</h4>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F05032?style=for-the-badge&logo=figma&logoColor=white">

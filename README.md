@@ -32,7 +32,6 @@
   
   </div>
 
-💻 [portfolio](https://elastic-vanilla-3d4.notion.site/0ece78e96e624e699dc8ab69d15ce2db?pvs=4)
 📗 [blog](https://velog.io/@bong9468)
 
 🥇 대회 / 교육 활동

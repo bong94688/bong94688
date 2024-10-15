@@ -25,3 +25,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bong6260)](https://solved.ac/bong6260/)
 
+### THANK YOU
